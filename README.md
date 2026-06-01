@@ -19,7 +19,7 @@ StackOverflow: https://stackoverflow.com/users/1392202/sirar-salih
 ## GitHub Achievements
 
 <div>
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png" width="60px" alt="Public Sponsor" title="Public Sponsor" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png" width="60px" alt="Public Sponsor" title="Public Sponsor" style="pointer-events: none; cursor: default;"/>
 
 <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" width="60px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
 
