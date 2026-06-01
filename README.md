@@ -1,4 +1,4 @@
-# About
+# About Sirar
 
 Sirar Salih is an experienced senior consultant with almost 20 years experience in the IT industry. Programming is his passion. Through his career, he has come to learn that effective communication is an essential part of his work and that too has become a passion of his. His mantra is; placing the end-user at the forefront of development. He loves delivering value.
 
