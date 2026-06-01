@@ -8,6 +8,6 @@ On May 1st 2019, Sirar received the prestigious Microsoft Most Valuable Professi
 
 On April 14th 2020, Sirar founded his own technology consultancy company, Wintry Tech AS. The company was a success and quickly grew in size.
 
-# GitHub Achievements
+## GitHub Achievements
 
-[![GitHub Trophies](https://vercel.app)](https://github.com/sirarsalih/github-profile-trophy)
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" width="60px" alt="Arctic Code Vault Contributor" />
