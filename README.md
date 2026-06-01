@@ -9,11 +9,8 @@ On May 1st 2019, Sirar received the prestigious Microsoft Most Valuable Professi
 On April 14th 2020, Sirar founded his own technology consultancy company, Wintry Tech AS. The company was a success and quickly grew in size.
 
 Company: https://wintrytech.com
-
-GitHub: https://github.com/sirarsalih
-
 Tech blog: https://sirarsalih.com
-
+GitHub: https://github.com/sirarsalih
 StackOverflow: https://stackoverflow.com/users/1392202/sirar-salih
 
 ## GitHub Achievements
