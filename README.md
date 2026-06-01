@@ -28,8 +28,8 @@ StackOverflow: https://stackoverflow.com/users/1392202/sirar-salih
 
 ## Organizations
 
-<a href="https://github.com/nnug">
 <div>
+<a href="https://github.com/nnug">
 <img src="https://avatars.githubusercontent.com/u/358406?s=200&v=4" width="60px" alt="NNUG" title="NNUG" />
 </a>
 
