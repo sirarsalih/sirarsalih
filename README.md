@@ -10,6 +10,8 @@ On April 14th 2020, Sirar founded his own technology consultancy company, Wintry
 
 ## GitHub Achievements
 
+<div>
 <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" width="60px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
 
 <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" width="60px" alt="Pull Shark" title="Pull Shark" />
+</div>
