@@ -29,7 +29,7 @@ StackOverflow: https://stackoverflow.com/users/1392202/sirar-salih
 ## Organizations
 
 <div>
-<img src="https://avatars.githubusercontent.com/u/358406?s=400&v=4" width="60px" alt="NNUG" title="NNUG" style="border-radius: 5px;"/>
+<img src="https://avatars.githubusercontent.com/u/358406?s=200&v=4" width="60px" alt="NNUG" title="NNUG" />
 
 <img src="https://avatars.githubusercontent.com/u/36446681?s=400&u=90a6ce48de538bf5f3d0de8c52f823348815bfb5&v=4" width="60px" alt="NNUG Oslo" title="NNUG Oslo" />
 </div>
